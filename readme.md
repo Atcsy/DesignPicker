@@ -10,7 +10,7 @@ This App connects to the behanced API. And you can browse the designs from there
 
 
 
-* Laravel 
+* Laravel 5
 * JavaScript
 * CSS3
 * HTML5
